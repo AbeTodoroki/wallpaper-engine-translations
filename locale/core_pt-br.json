@@ -11,6 +11,8 @@
 	"core_tray_faq" : "Suporte e perguntas frequentes",
 	"core_tray_recent_wallpapers_clear" : "Limpar lista",
 	"core_tray_next_wallpaper" : "Próximo plano de fundo",
+	"core_tray_mute" : "Mudo",
+	"core_tray_unmute" : "Desativar Mudo",
 	
 	"core_balloon_info" : "Wallpaper Engine minimizado para a bandeja. Dê um duplo clique no ícone da bandeja para selecionar um plano de fundo.",
 	"core_balloon_desktop_window_error" : "Falha ao preparar área de trabalho.",
